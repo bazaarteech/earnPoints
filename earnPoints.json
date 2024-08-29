@@ -1,0 +1,43 @@
+{
+    "default": {
+        "earnPoints": "Spend $75 to earn 500 points for $10 off your future purchase use code: EARNMORE"
+    },
+    "locales": {
+        "ma": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "sa": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "eg": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "ae": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "kw": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "om": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "bh": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "qa": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "tn": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "dz": {
+            "earnPoints": "أنفق 75 دولارًا للحصول على 500 نقطة واستخدم 10 دولارات في شرائك المستقبلي باستخدام الرمز: EARNMORE"
+        },
+        "es": {
+            "earnPoints": "Gasta $75 para ganar 500 puntos y obtener $10 de descuento en tu próxima compra con el código: EARNMORE"
+        },
+        "de": {
+            "earnPoints": "Geben Sie 75 $ aus, um 500 Punkte zu sammeln und 10 $ Rabatt auf Ihren nächsten Kauf zu erhalten. Verwenden Sie den Code: EARNMORE"
+        }
+    }
+}
